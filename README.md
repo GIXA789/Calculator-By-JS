@@ -1,2 +1,2 @@
-# Calculator-By-JS
-Calculator created by JavaScript 
+# Calculator-By-JS & HTML
+Calculator created by JavaScript and HTML
